@@ -2,7 +2,7 @@
 
 . Dashboard preview
 
-![Filpkart Dashboard](FLIpkart-Dashboard.jpg)
+![Filpkart Dashboard](Flipkart-Dashboard.jpg)
 
 
  .Project Overview
